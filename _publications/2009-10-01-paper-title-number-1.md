@@ -9,6 +9,5 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0927025617303919'
 citation: 'K Mathew, JH Montoya, A Faghaninia, S Dwarakanath, M Aykol, H Tang, ...
 Computational Materials Science 139, 140-152'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S0927025617303919/1-s2.0-S0927025617303919-main.pdf)
