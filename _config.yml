@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "John Dagdelen"
-  avatar           : "profile.png"
+  avatar           : "portrait.png"
   bio              : "Computational Materials and Machine Learning"
   location         : "Berkeley, CA"
   employer         :
