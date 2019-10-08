@@ -6,7 +6,7 @@ excerpt: 'The overwhelming majority of scientific knowledge is published as text
 date: 2019-07-03
 venue: 'Nature'
 paperurl: 'https://www.nature.com/articles/s41586-019-1335-8'
-citation: 'Tshitoyan, V., Dagdelen, J., Weston, L., Dunn, A., Rong, Z., Kononova, O., … Jain, A. (2019). Unsupervised word embeddings capture latent knowledge from materials science literature. *Nature*, 571(7763), 95–98. https://doi.org/10.1038/s41586-019-1335-8'
+citation: 'Tshitoyan, V., Dagdelen, J., Weston, L., Dunn, A., Rong, Z., Kononova, O., … Jain, A. (2019). Unsupervised word embeddings capture latent knowledge from materials science literature. Nature, 571(7763), 95–98. https://doi.org/10.1038/s41586-019-1335-8'
 ---
 
 [Read the paper here for free](https://www.researchgate.net/publication/334209824_Unsupervised_word_embeddings_capture_latent_knowledge_from_materials_science_literature)
