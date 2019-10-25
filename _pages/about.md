@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-John Dagdelen is a Graudate Student Researcher in [Professor Kristin Persson's](https://www.perssongroup.lbl.gov) group at Lawrence Berkeley National Laboratory/UC Berkeley.
+John Dagdelen is a Graudate Student Researcher in [Professor Kristin Persson's](https://perssongroup.lbl.gov) group at Lawrence Berkeley National Laboratory/UC Berkeley.
 
 About John
 ======
