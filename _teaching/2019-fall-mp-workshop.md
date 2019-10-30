@@ -9,5 +9,5 @@ location: "Berkeley, CA"
 ---
 
 Links
-======
+---
 [MP Workshop Home Page](http://workshop.materialsproject.org)
